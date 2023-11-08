@@ -36,7 +36,7 @@ Welcome to the Flashcard Generator website! 📚 This platform has been develope
 
 1. Clone the project
    ```bash
-   git clone https://github.com/dpvasani/FlashCardGenerator.git
+   git clone https://github.com/udatabhavana/Flashcard-Generator.git
    ```
 
 2. Go to the project directory
@@ -54,12 +54,10 @@ Welcome to the Flashcard Generator website! 📚 This platform has been develope
    npm run start
    ```
 
-## 🤝 Contributors
+## 🤝 Contributor
 
-- Darshan Vasani [GitHub](https://github.com/dpvasani) | [LinkedIn](https://www.linkedin.com/in/darshan-vasani-3299ba245/)
-
-- Krupali Desai [GitHub](https://www.github.com/dkrupali56) | [LinkedIn](https://www.linkedin.com/in/krupali-desai-17269a235/)
+- Bhavana Udata [GitHub](https://www.linkedin.com/in/bhavana-udata-97a9541b7) | [LinkedIn](https://github.com/udatabhavana/)
 
 ## 🌐 Deployed Website
 
-[Visit the website](https://flash-card-generator-56.vercel.app/) 🌐
+[Visit the website](https://flashcard-generator01.netlify.app) 🌐

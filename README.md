@@ -41,7 +41,7 @@ Welcome to the Flashcard Generator website! 📚 This platform has been develope
 
 2. Go to the project directory
    ```bash
-   cd FlashCardGenerator-Almabetter
+   cd FlashCardGenerator-main
    ```
 
 3. Install dependencies
